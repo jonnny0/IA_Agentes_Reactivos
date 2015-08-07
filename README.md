@@ -3,7 +3,7 @@ Práctica de la asignatura Inteligencia Artificial
 
 Desarrollada en CodeBlocks.
 
-Muestra un ejemplo de un agente reactivo de manera gráfica.
+Muestra un ejemplo del comportamiento de un agente reactivo de manera gráfica.
 
 Incluye el ejecutable .exe
 
